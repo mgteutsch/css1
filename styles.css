@@ -18,6 +18,8 @@ body {
 
 .title {
 	border-color: green;
+	text-align: center;
+	font-size: 30px;
 }
 
 .image {
@@ -26,10 +28,14 @@ body {
 
 .text1 {
 	border-color: red;
+	float: left;
+	width: 45%;
 }
 
 .text2 {
-	border-color: orange; 
+	border-color: orange;
+	float: right;
+	width: 45%;
 }
 
 .footer {
@@ -42,6 +48,13 @@ body {
 	padding: 0 9px;
 	float: left;
 	margin: 10px 15px 0 15px;
+}
 
+.img-box {
+	width: 30%;
+	height: 50px;
+	border: 2px dashed lime;
+	display: inline-block;
+    margin-right: 2%;
 }
 
