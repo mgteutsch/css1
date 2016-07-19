@@ -1,3 +1,22 @@
 body {
-	background-color: blue;
+	background-color: white;
 }
+
+.googlelogo {
+	height: 30%;
+	width:	30%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+}
+
+.searchbar {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	height: 30px;
+    width: 450px;
+}
+
